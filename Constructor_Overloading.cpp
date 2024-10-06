@@ -25,3 +25,9 @@ int main(void)
     cout<<obj.sum(12,33,45)<<endl;
     cout<<obj.sum(132,23.44f)<<endl;
 }
+/*
+**OUTPUT**
+35
+90
+155.44
+*/
